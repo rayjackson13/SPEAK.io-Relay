@@ -1,0 +1,23 @@
+{
+  "name": "speak.io-relay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayjackson13/SPEAK.io-Relay.git"
+  },
+  "author": "rayjackson132",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayjackson13/SPEAK.io-Relay/issues"
+  },
+  "homepage": "https://github.com/rayjackson13/SPEAK.io-Relay#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "gun": "^0.2020.1235"
+  }
+}
